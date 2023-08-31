@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example003_SumNumbers\bin\Debug\net6.0\Example003_SumNumbers.exe
+C:\Обучение\Examples\Example003_SumNumbers\bin\Debug\net6.0\Example003_SumNumbers.deps.json
+C:\Обучение\Examples\Example003_SumNumbers\bin\Debug\net6.0\Example003_SumNumbers.runtimeconfig.json
+C:\Обучение\Examples\Example003_SumNumbers\bin\Debug\net6.0\Example003_SumNumbers.dll
+C:\Обучение\Examples\Example003_SumNumbers\bin\Debug\net6.0\Example003_SumNumbers.pdb
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.AssemblyInfo.cs
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.dll
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\refint\Example003_SumNumbers.dll
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.pdb
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\Example003_SumNumbers.genruntimeconfig.cache
+C:\Обучение\Examples\Example003_SumNumbers\obj\Debug\net6.0\ref\Example003_SumNumbers.dll
