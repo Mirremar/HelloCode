@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example005_SpecialGreet\bin\Debug\net6.0\Example005_SpecialGreet.exe
+C:\Обучение\Examples\Example005_SpecialGreet\bin\Debug\net6.0\Example005_SpecialGreet.deps.json
+C:\Обучение\Examples\Example005_SpecialGreet\bin\Debug\net6.0\Example005_SpecialGreet.runtimeconfig.json
+C:\Обучение\Examples\Example005_SpecialGreet\bin\Debug\net6.0\Example005_SpecialGreet.dll
+C:\Обучение\Examples\Example005_SpecialGreet\bin\Debug\net6.0\Example005_SpecialGreet.pdb
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.AssemblyInfo.cs
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.dll
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\refint\Example005_SpecialGreet.dll
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.pdb
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\Example005_SpecialGreet.genruntimeconfig.cache
+C:\Обучение\Examples\Example005_SpecialGreet\obj\Debug\net6.0\ref\Example005_SpecialGreet.dll
