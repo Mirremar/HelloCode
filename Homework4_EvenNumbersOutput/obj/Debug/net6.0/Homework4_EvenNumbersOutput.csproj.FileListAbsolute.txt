@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\bin\Debug\net6.0\Homework4_EvenNumbersOutput.exe
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\bin\Debug\net6.0\Homework4_EvenNumbersOutput.deps.json
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\bin\Debug\net6.0\Homework4_EvenNumbersOutput.runtimeconfig.json
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\bin\Debug\net6.0\Homework4_EvenNumbersOutput.dll
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\bin\Debug\net6.0\Homework4_EvenNumbersOutput.pdb
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.AssemblyInfo.cs
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.dll
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\refint\Homework4_EvenNumbersOutput.dll
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.pdb
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\Homework4_EvenNumbersOutput.genruntimeconfig.cache
+C:\Обучение\Examples\Homework4_EvenNumbersOutput\obj\Debug\net6.0\ref\Homework4_EvenNumbersOutput.dll
