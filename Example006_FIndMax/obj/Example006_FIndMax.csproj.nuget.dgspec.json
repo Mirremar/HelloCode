@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Обучение\\Examples\\Example006_FIndMax\\Example006_FIndMax.csproj": {}
   },
   "projects": {
-    "c:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Обучение\\Examples\\Example006_FIndMax\\Example006_FIndMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-        "projectName": "Example001_HelloConsole",
-        "projectPath": "c:\\Обучение\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Обучение\\Examples\\Example006_FIndMax\\Example006_FIndMax.csproj",
+        "projectName": "Example006_FIndMax",
+        "projectPath": "C:\\Обучение\\Examples\\Example006_FIndMax\\Example006_FIndMax.csproj",
         "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-        "outputPath": "c:\\Обучение\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Обучение\\Examples\\Example006_FIndMax\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

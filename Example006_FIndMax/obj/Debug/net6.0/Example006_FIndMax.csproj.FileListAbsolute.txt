@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.AssemblyInfo.cs
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example006_FIndMax\bin\Debug\net6.0\Example006_FIndMax.exe
+C:\Обучение\Examples\Example006_FIndMax\bin\Debug\net6.0\Example006_FIndMax.deps.json
+C:\Обучение\Examples\Example006_FIndMax\bin\Debug\net6.0\Example006_FIndMax.runtimeconfig.json
+C:\Обучение\Examples\Example006_FIndMax\bin\Debug\net6.0\Example006_FIndMax.dll
+C:\Обучение\Examples\Example006_FIndMax\bin\Debug\net6.0\Example006_FIndMax.pdb
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.dll
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\refint\Example006_FIndMax.dll
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.pdb
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\Example006_FIndMax.genruntimeconfig.cache
+C:\Обучение\Examples\Example006_FIndMax\obj\Debug\net6.0\ref\Example006_FIndMax.dll
