@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.AssemblyInfo.cs
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Homework1_2NumbersCompare\bin\Debug\net6.0\Homework1_2NumbersCompare.exe
+C:\Обучение\Examples\Homework1_2NumbersCompare\bin\Debug\net6.0\Homework1_2NumbersCompare.deps.json
+C:\Обучение\Examples\Homework1_2NumbersCompare\bin\Debug\net6.0\Homework1_2NumbersCompare.runtimeconfig.json
+C:\Обучение\Examples\Homework1_2NumbersCompare\bin\Debug\net6.0\Homework1_2NumbersCompare.dll
+C:\Обучение\Examples\Homework1_2NumbersCompare\bin\Debug\net6.0\Homework1_2NumbersCompare.pdb
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.dll
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\refint\Homework1_2NumbersCompare.dll
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.pdb
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\Homework1_2NumbersCompare.genruntimeconfig.cache
+C:\Обучение\Examples\Homework1_2NumbersCompare\obj\Debug\net6.0\ref\Homework1_2NumbersCompare.dll
