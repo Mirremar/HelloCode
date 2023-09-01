@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.AssemblyInfo.cs
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Homework2_3NumbersCompare\bin\Debug\net6.0\Homework2_3NumbersCompare.exe
+C:\Обучение\Examples\Homework2_3NumbersCompare\bin\Debug\net6.0\Homework2_3NumbersCompare.deps.json
+C:\Обучение\Examples\Homework2_3NumbersCompare\bin\Debug\net6.0\Homework2_3NumbersCompare.runtimeconfig.json
+C:\Обучение\Examples\Homework2_3NumbersCompare\bin\Debug\net6.0\Homework2_3NumbersCompare.dll
+C:\Обучение\Examples\Homework2_3NumbersCompare\bin\Debug\net6.0\Homework2_3NumbersCompare.pdb
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.dll
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\refint\Homework2_3NumbersCompare.dll
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.pdb
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\Homework2_3NumbersCompare.genruntimeconfig.cache
+C:\Обучение\Examples\Homework2_3NumbersCompare\obj\Debug\net6.0\ref\Homework2_3NumbersCompare.dll
