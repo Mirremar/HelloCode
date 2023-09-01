@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.AssemblyInfo.cs
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Homework0_2FriendsAndADog\bin\Debug\net6.0\Homework0_2FriendsAndADog.exe
+C:\Обучение\Examples\Homework0_2FriendsAndADog\bin\Debug\net6.0\Homework0_2FriendsAndADog.deps.json
+C:\Обучение\Examples\Homework0_2FriendsAndADog\bin\Debug\net6.0\Homework0_2FriendsAndADog.runtimeconfig.json
+C:\Обучение\Examples\Homework0_2FriendsAndADog\bin\Debug\net6.0\Homework0_2FriendsAndADog.dll
+C:\Обучение\Examples\Homework0_2FriendsAndADog\bin\Debug\net6.0\Homework0_2FriendsAndADog.pdb
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.dll
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\refint\Homework0_2FriendsAndADog.dll
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.pdb
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\Homework0_2FriendsAndADog.genruntimeconfig.cache
+C:\Обучение\Examples\Homework0_2FriendsAndADog\obj\Debug\net6.0\ref\Homework0_2FriendsAndADog.dll
