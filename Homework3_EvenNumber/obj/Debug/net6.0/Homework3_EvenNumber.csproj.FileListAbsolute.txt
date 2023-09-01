@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Homework3_EvenNumber\bin\Debug\net6.0\Homework3_EvenNumber.exe
+C:\Обучение\Examples\Homework3_EvenNumber\bin\Debug\net6.0\Homework3_EvenNumber.deps.json
+C:\Обучение\Examples\Homework3_EvenNumber\bin\Debug\net6.0\Homework3_EvenNumber.runtimeconfig.json
+C:\Обучение\Examples\Homework3_EvenNumber\bin\Debug\net6.0\Homework3_EvenNumber.dll
+C:\Обучение\Examples\Homework3_EvenNumber\bin\Debug\net6.0\Homework3_EvenNumber.pdb
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.AssemblyInfo.cs
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.dll
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\refint\Homework3_EvenNumber.dll
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.pdb
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\Homework3_EvenNumber.genruntimeconfig.cache
+C:\Обучение\Examples\Homework3_EvenNumber\obj\Debug\net6.0\ref\Homework3_EvenNumber.dll
