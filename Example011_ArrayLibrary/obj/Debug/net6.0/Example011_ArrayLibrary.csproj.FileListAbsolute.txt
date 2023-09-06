@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.AssemblyInfo.cs
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.exe
+C:\Обучение\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.deps.json
+C:\Обучение\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.runtimeconfig.json
+C:\Обучение\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\Обучение\Examples\Example011_ArrayLibrary\bin\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.dll
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\refint\Example011_ArrayLibrary.dll
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.pdb
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\Example011_ArrayLibrary.genruntimeconfig.cache
+C:\Обучение\Examples\Example011_ArrayLibrary\obj\Debug\net6.0\ref\Example011_ArrayLibrary.dll

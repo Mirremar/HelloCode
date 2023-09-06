@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example010_FindIndex\bin\Debug\net6.0\Example010_FindIndex.exe
+C:\Обучение\Examples\Example010_FindIndex\bin\Debug\net6.0\Example010_FindIndex.deps.json
+C:\Обучение\Examples\Example010_FindIndex\bin\Debug\net6.0\Example010_FindIndex.runtimeconfig.json
+C:\Обучение\Examples\Example010_FindIndex\bin\Debug\net6.0\Example010_FindIndex.dll
+C:\Обучение\Examples\Example010_FindIndex\bin\Debug\net6.0\Example010_FindIndex.pdb
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.AssemblyInfo.cs
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.dll
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\refint\Example010_FindIndex.dll
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.pdb
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\Example010_FindIndex.genruntimeconfig.cache
+C:\Обучение\Examples\Example010_FindIndex\obj\Debug\net6.0\ref\Example010_FindIndex.dll
