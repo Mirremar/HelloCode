@@ -30,5 +30,33 @@ void SelectionSort(int[] array)
 }
 
 PrintArray(arr);
-SelectionSort(arr);
+Console.WriteLine("");
+ReverseSort(arr);
+//SelectionSort(arr);
 PrintArray(arr);
+
+//Сделать обратную сортировку: от большего к меньшему.
+
+void ReverseSort(int[] array)
+{
+    int temp = 0;
+    int max = 0;
+    for(int i = 0;i<array.Length-1;i++)
+    {
+        max = i;
+        for(int j=i;j<array.Length-1;j++)
+        {
+            if(array[j]>array[max])
+            {
+                max = j;
+            }
+        }
+        temp = array[i];
+        array[i] = array[max];
+        array[max] = temp;
+
+    }
+
+
+
+}
