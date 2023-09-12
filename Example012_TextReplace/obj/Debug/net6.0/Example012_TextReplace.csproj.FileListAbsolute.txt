@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.AssemblyInfo.cs
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example012_TextReplace\bin\Debug\net6.0\Example012_TextReplace.exe
+C:\Обучение\Examples\Example012_TextReplace\bin\Debug\net6.0\Example012_TextReplace.deps.json
+C:\Обучение\Examples\Example012_TextReplace\bin\Debug\net6.0\Example012_TextReplace.runtimeconfig.json
+C:\Обучение\Examples\Example012_TextReplace\bin\Debug\net6.0\Example012_TextReplace.dll
+C:\Обучение\Examples\Example012_TextReplace\bin\Debug\net6.0\Example012_TextReplace.pdb
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.dll
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\refint\Example012_TextReplace.dll
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.pdb
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\Example012_TextReplace.genruntimeconfig.cache
+C:\Обучение\Examples\Example012_TextReplace\obj\Debug\net6.0\ref\Example012_TextReplace.dll

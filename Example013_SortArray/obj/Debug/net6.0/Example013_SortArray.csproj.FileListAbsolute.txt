@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.AssemblyInfo.cs
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example013_SortArray\bin\Debug\net6.0\Example013_SortArray.exe
+C:\Обучение\Examples\Example013_SortArray\bin\Debug\net6.0\Example013_SortArray.deps.json
+C:\Обучение\Examples\Example013_SortArray\bin\Debug\net6.0\Example013_SortArray.runtimeconfig.json
+C:\Обучение\Examples\Example013_SortArray\bin\Debug\net6.0\Example013_SortArray.dll
+C:\Обучение\Examples\Example013_SortArray\bin\Debug\net6.0\Example013_SortArray.pdb
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.dll
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\refint\Example013_SortArray.dll
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.pdb
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\Example013_SortArray.genruntimeconfig.cache
+C:\Обучение\Examples\Example013_SortArray\obj\Debug\net6.0\ref\Example013_SortArray.dll
