@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example015_Factorial\bin\Debug\net6.0\Example015_Factorial.exe
+C:\Обучение\Examples\Example015_Factorial\bin\Debug\net6.0\Example015_Factorial.deps.json
+C:\Обучение\Examples\Example015_Factorial\bin\Debug\net6.0\Example015_Factorial.runtimeconfig.json
+C:\Обучение\Examples\Example015_Factorial\bin\Debug\net6.0\Example015_Factorial.dll
+C:\Обучение\Examples\Example015_Factorial\bin\Debug\net6.0\Example015_Factorial.pdb
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.AssemblyInfo.cs
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.dll
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\refint\Example015_Factorial.dll
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.pdb
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\Example015_Factorial.genruntimeconfig.cache
+C:\Обучение\Examples\Example015_Factorial\obj\Debug\net6.0\ref\Example015_Factorial.dll

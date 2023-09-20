@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.AssemblyInfo.cs
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example016_Fibonacci\bin\Debug\net6.0\Example016_Fibonacci.exe
+C:\Обучение\Examples\Example016_Fibonacci\bin\Debug\net6.0\Example016_Fibonacci.deps.json
+C:\Обучение\Examples\Example016_Fibonacci\bin\Debug\net6.0\Example016_Fibonacci.runtimeconfig.json
+C:\Обучение\Examples\Example016_Fibonacci\bin\Debug\net6.0\Example016_Fibonacci.dll
+C:\Обучение\Examples\Example016_Fibonacci\bin\Debug\net6.0\Example016_Fibonacci.pdb
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.dll
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\refint\Example016_Fibonacci.dll
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.pdb
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\Example016_Fibonacci.genruntimeconfig.cache
+C:\Обучение\Examples\Example016_Fibonacci\obj\Debug\net6.0\ref\Example016_Fibonacci.dll

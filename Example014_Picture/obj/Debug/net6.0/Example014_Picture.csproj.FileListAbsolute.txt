@@ -1,0 +1,15 @@
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.csproj.AssemblyReference.cache
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.AssemblyInfoInputs.cache
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.AssemblyInfo.cs
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.csproj.CoreCompileInputs.cache
+C:\Обучение\Examples\Example014_Picture\bin\Debug\net6.0\Example014_Picture.exe
+C:\Обучение\Examples\Example014_Picture\bin\Debug\net6.0\Example014_Picture.deps.json
+C:\Обучение\Examples\Example014_Picture\bin\Debug\net6.0\Example014_Picture.runtimeconfig.json
+C:\Обучение\Examples\Example014_Picture\bin\Debug\net6.0\Example014_Picture.dll
+C:\Обучение\Examples\Example014_Picture\bin\Debug\net6.0\Example014_Picture.pdb
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.dll
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\refint\Example014_Picture.dll
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.pdb
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\Example014_Picture.genruntimeconfig.cache
+C:\Обучение\Examples\Example014_Picture\obj\Debug\net6.0\ref\Example014_Picture.dll
